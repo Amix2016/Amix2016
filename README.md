@@ -1,5 +1,5 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
-<h1 align="center">Hi 👋, I'm Ravi Burnawal</h1>
+<h1 align="center">Hi 👋, I'm Ravi Barnawal</h1>
 <h3 align="center">I am excited to bring my strong analytical skills and passion for problem-solving. I have gained good understanding of statistical analysis, machine learning, and data visualization, and completed multiple projects involving the analysis of large datasets. I am confident in my ability to apply these skills to a variety of real-world problems and contribute to data-driven decision making. I am also eager to continue learning and growing as a data scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif"
 
